@@ -1,0 +1,12 @@
+.loginPage {
+    background: url('Image/BackGround.jpg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("Image/BackGround.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 200%; /* Adjusted to cover the entire container */
+}
+
+.loginForm {
+    background-color: rgba(1, 32, 93, 0.8); /* Increased opacity for a darker overlay */
+    color: white;
+}
